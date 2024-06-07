@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-// Mastera Ekleme Yapma
+// Mastera Ekleme Yapma12312
 
 // Yeniaaasss
 app.UseHttpsRedirection();
