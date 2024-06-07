@@ -16,6 +16,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 // Mastera Ekleme Yapma
+
+// Yeni
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
