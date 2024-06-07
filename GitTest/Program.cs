@@ -25,4 +25,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-// deðiþiklik12345678910
+// deðiþiklik
