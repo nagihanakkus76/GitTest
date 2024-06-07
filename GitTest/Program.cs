@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 // Mastera Ekleme Yapma
 
-// Yeni
+// Yeniaaa
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
